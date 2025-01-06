@@ -40,8 +40,12 @@ body {
 
 .nav h4 {
   font-style: 1vw;
+  cursor: pointer;
 }
 
+h4:hover {
+  color: #dd695b;
+}
 .nav i {
   font-weight: 700;
   display: none;
